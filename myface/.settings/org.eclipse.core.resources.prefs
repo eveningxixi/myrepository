@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/baidu/ai/aip/servlet/FaceDetectServlet.java=UTF-8
+encoding//src/main/java/com/baidu/ai/aip/servlet/FaceSearchServlet.java=UTF-8
+encoding//src/main/java/com/baidu/ai/aip/utils=UTF-8
+encoding//src/main/java/com/baidu/ai/aip/utils/HttpUtil.java=UTF-8

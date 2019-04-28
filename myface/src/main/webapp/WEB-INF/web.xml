@@ -1,0 +1,27 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+<!-- 	<servlet>
+		<servlet-name>FaceLoginServlet</servlet-name>
+		<display-name>FaceLoginServlet</display-name>
+		<description></description>
+		<servlet-class>com.baidu.ai.aip.servlet.FaceLoginServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>FaceLoginServlet</servlet-name>
+		<url-pattern>/FaceLoginServlet</url-pattern>
+	</servlet-mapping> -->
+<!--   <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>FaceDetectServlet</servlet-name>
+  	<display-name>FaceDetectServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.baidu.ai.aip.servlet.FaceDetectServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>FaceDetectServlet</servlet-name>
+  	<url-pattern>/FaceDetectServlet</url-pattern>
+  </servlet-mapping> -->
+</web-app>
